@@ -1,0 +1,7 @@
+C:\Users\Michaltchuk\source\repos\EscrevendoNoCelular\EscrevendoNoCelular.ConsoleApp\bin\Debug\EscrevendoNoCelular.ConsoleApp.exe.config
+C:\Users\Michaltchuk\source\repos\EscrevendoNoCelular\EscrevendoNoCelular.ConsoleApp\bin\Debug\EscrevendoNoCelular.ConsoleApp.exe
+C:\Users\Michaltchuk\source\repos\EscrevendoNoCelular\EscrevendoNoCelular.ConsoleApp\bin\Debug\EscrevendoNoCelular.ConsoleApp.pdb
+C:\Users\Michaltchuk\source\repos\EscrevendoNoCelular\EscrevendoNoCelular.ConsoleApp\obj\Debug\EscrevendoNoCelular.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Michaltchuk\source\repos\EscrevendoNoCelular\EscrevendoNoCelular.ConsoleApp\obj\Debug\EscrevendoNoCelular.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Michaltchuk\source\repos\EscrevendoNoCelular\EscrevendoNoCelular.ConsoleApp\obj\Debug\EscrevendoNoCelular.ConsoleApp.exe
+C:\Users\Michaltchuk\source\repos\EscrevendoNoCelular\EscrevendoNoCelular.ConsoleApp\obj\Debug\EscrevendoNoCelular.ConsoleApp.pdb

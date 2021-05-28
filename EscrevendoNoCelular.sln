@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscrevendoNoCelular.ConsoleApp", "EscrevendoNoCelular.ConsoleApp\EscrevendoNoCelular.ConsoleApp.csproj", "{831D183E-691F-4002-B43C-6B5351219E2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{1AED814D-19CD-4F24-8185-D73ED603FDF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{831D183E-691F-4002-B43C-6B5351219E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831D183E-691F-4002-B43C-6B5351219E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831D183E-691F-4002-B43C-6B5351219E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831D183E-691F-4002-B43C-6B5351219E2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AED814D-19CD-4F24-8185-D73ED603FDF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AED814D-19CD-4F24-8185-D73ED603FDF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AED814D-19CD-4F24-8185-D73ED603FDF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AED814D-19CD-4F24-8185-D73ED603FDF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C580332-7206-479D-9029-A7DF04B9B04F}
+	EndGlobalSection
+EndGlobal
